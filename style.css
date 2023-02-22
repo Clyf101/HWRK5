@@ -36,12 +36,12 @@ body {
   }
   
   .present {
-    background-color: #ff6961;
+    background-color: #77dd77;     
     color: white;
   }
   
   .future {
-    background-color: #77dd77;
+    background-color: #414141;
     color: white;
   }
   
@@ -56,5 +56,6 @@ body {
   .saveBtn i:hover {
     font-size: 20px;
     transition: all 0.3s ease-in-out;
+    cursor: pointer;
   }
   
