@@ -7,7 +7,7 @@ body {
     background: transparent;
     border: none;
     resize: none;
-    color: #f3f0f0;
+    color: #000000;
     border-left: 1px solid black;
     padding: 10px;
   }
@@ -41,7 +41,7 @@ body {
   }
   
   .future {
-    background-color: #414141;
+    background-color: #ff6961;
     color: white;
   }
   
@@ -56,6 +56,5 @@ body {
   .saveBtn i:hover {
     font-size: 20px;
     transition: all 0.3s ease-in-out;
-    cursor: pointer;
   }
   
